@@ -1,4 +1,4 @@
 # hello-world
 Learning
 
-This id learning guthub from opsschool
+This id learning github from opsschool
